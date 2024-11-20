@@ -61,5 +61,3 @@ The objective of the game is to:
 ### **Enjoy playing Checkers!** 🎮
 
 ---
-
-This updated version should render with proper bold text, headings, and spacing when displayed on platforms like GitHub or any Markdown viewer.
