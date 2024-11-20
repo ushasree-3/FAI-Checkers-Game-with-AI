@@ -1,8 +1,3 @@
-# FAI-Checkers
-Here’s the reformatted README with proper structure, headings, and emphasis using **Markdown** syntax. This version ensures readability with bold text, clear sections, and line breaks.
-
----
-
 # **Checkers Game**
 
 ### **Course Project**  
