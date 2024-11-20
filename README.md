@@ -11,7 +11,7 @@
 - **Anura Mantri** - 22110144  
 - **Bhanu Repalle** - 22110221  
 - **Saloni Shinde** - 22110242  
-- **Thumma Ushashree** - 22110272  
+- **Thumma Ushasree** - 22110272  
 
 ---
 
