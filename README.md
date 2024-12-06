@@ -2,7 +2,6 @@
 
 ### **Course Project**  
 **Course**: Foundations of AI  
-
 **Instructors**: Prof. Neeldhara Mishra, Prof. Manisha Padala
 
 ### **Team Members**  
