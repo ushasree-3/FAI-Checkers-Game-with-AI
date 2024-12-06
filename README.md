@@ -13,8 +13,6 @@
 - **Saloni Shinde** - 22110242  
 - **Thumma Ushasree** - 22110272  
 
----
-
 ## **Project Overview**
 
 This project is a Python implementation of the classic board game **Checkers** using the `pygame` module. It features:  
@@ -41,23 +39,15 @@ After running the script, you'll be presented with a menu to choose the game mod
 - **Kings** are created when a piece reaches the opponent’s back row.  
 - Multiple captures in one turn are allowed if conditions permit.
 
----
-
 ## **Objective**
 
 The objective of the game is to:  
 - **Capture all of your opponent's pieces**, or  
 - **Block all possible moves** of your opponent.  
 
----
-
 ## **Customization**
 
 - **AI Depth**: Modify the depth of the Minimax tree in `game.py` to control the difficulty level of the AI.  
 - **Epsilon Value**: Adjust the `epsilon` parameter in `game.py` to control the randomness of the AI’s moves.  
 
----
-
 ### **Enjoy playing Checkers!** 🎮
-
----
