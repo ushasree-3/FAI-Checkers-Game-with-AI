@@ -2,9 +2,8 @@
 
 ### **Course Project**  
 **Course**: Foundations of AI  
-**Instructors**:  
-- Prof. Neeldhara Mishra  
-- Prof. Manisha Padala  
+
+**Instructors**: Prof. Neeldhara Mishra, Prof. Manisha Padala
 
 ### **Team Members**  
 - **Deepanjali Kumari** - 22110069  
@@ -17,19 +16,18 @@
 
 This project is a Python implementation of the classic board game **Checkers** using the `pygame` module. It features:  
 
-- **Two-Player Mode**: Players can play against each other locally.  
-- **Human vs AI Mode**: A single player can play against an AI opponent.  
+- **Two-Player Mode**: Play against another player locally. 
+- **Human vs AI Mode**: Challenge an AI opponent. 
 
 The AI uses the **Minimax Algorithm** with **Alpha-Beta Pruning** to optimize decision-making and includes an **Epsilon-Greedy Strategy** for introducing variability in its moves.
-
----
 
 ## **How to Play**
 
 ### **Launching the Game**
-After running the script, you'll be presented with a menu to choose the game mode:  
-1. **Two-Player Mode**  
-2. **Human vs AI Mode**  
+1. Run the script.
+2. Select the desired game mode from the menu:
+    -   Two-Player Mode
+    -   Human vs AI Mode
 
 ### **Controls**
 - Use the **mouse** to select and move pieces.  
