@@ -21,6 +21,9 @@ This project is a Python implementation of the classic board game **Checkers** u
 
 The AI uses the **Minimax Algorithm** with **Alpha-Beta Pruning** to optimize decision-making and includes an **Epsilon-Greedy Strategy** for introducing variability in its moves.
 
+### **Demo Video**  
+[Watch the demo on YouTube](https://youtu.be/fEZrQJbDrc8)
+
 ## **How to Play**
 
 ### **Launching the Game**
@@ -46,6 +49,6 @@ The objective of the game is to:
 ## **Customization**
 
 - **AI Depth**: Modify the depth of the Minimax tree in `game.py` to control the difficulty level of the AI.  
-- **Epsilon Value**: Adjust the `epsilon` parameter in `game.py` to control the randomness of the AI’s moves.  
+- **Epsilon Value**: Adjust the `epsilon` parameter in `game.py` to control the randomness of the AI’s moves.
 
 ### **Enjoy playing Checkers!** 🎮
